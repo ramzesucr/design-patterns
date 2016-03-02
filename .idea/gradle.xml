@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adapter" />
+            <option value="$PROJECT_DIR$/bridge" />
+            <option value="$PROJECT_DIR$/builder" />
+            <option value="$PROJECT_DIR$/chainofresponsibility" />
+            <option value="$PROJECT_DIR$/command" />
+            <option value="$PROJECT_DIR$/composite" />
+            <option value="$PROJECT_DIR$/decorator" />
+            <option value="$PROJECT_DIR$/facade" />
+            <option value="$PROJECT_DIR$/nullobject" />
+            <option value="$PROJECT_DIR$/observer" />
+            <option value="$PROJECT_DIR$/prototype" />
+            <option value="$PROJECT_DIR$/state" />
+            <option value="$PROJECT_DIR$/templatemethod" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adapter" />
+            <option value="$PROJECT_DIR$/bridge" />
+            <option value="$PROJECT_DIR$/builder" />
+            <option value="$PROJECT_DIR$/chainofresponsibility" />
+            <option value="$PROJECT_DIR$/command" />
+            <option value="$PROJECT_DIR$/composite" />
+            <option value="$PROJECT_DIR$/decorator" />
+            <option value="$PROJECT_DIR$/facade" />
+            <option value="$PROJECT_DIR$/nullobject" />
+            <option value="$PROJECT_DIR$/observer" />
+            <option value="$PROJECT_DIR$/prototype" />
+            <option value="$PROJECT_DIR$/state" />
+            <option value="$PROJECT_DIR$/templatemethod" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
